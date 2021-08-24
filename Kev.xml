@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<music-score>
+	<info>
+		<record-name>not created from recording</record-name>
+		<original-tempo>120</original-tempo>
+	</info>
+	<score>
+	<note>
+<name>Do</name>
+<duration>16</duration>
+<octave>5</octave>
+</note>
+<note>
+<name>Mi</name>
+<duration>16</duration>
+<octave>5</octave>
+</note>
+<note>
+<name>Sol</name>
+<duration>16</duration>
+<octave>5</octave>
+</note>
+<note>
+<name>Do</name>
+<duration>16</duration>
+<octave>6</octave>
+</note>
+<note>
+<name>Do</name>
+<duration>16</duration>
+<octave>6</octave>
+</note>
+<note>
+<name>Sol</name>
+<duration>16</duration>
+<octave>5</octave>
+</note>
+<note>
+<name>Mi</name>
+<duration>16</duration>
+<octave>5</octave>
+</note>
+<note>
+<name>Do</name>
+<duration>16</duration>
+<octave>5</octave>
+</note>
+</score>
+</music-score>

@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<music-score>
+	<info>
+		<record-name>.\extrait_9.wav</record-name>
+		<original-tempo>120</original-tempo>
+	</info>
+	<score>
+		<note>
+			<name>Sol</name>
+			<octave>6</octave>
+			<duration>16</duration>
+		</note>
+		<note>
+			<name>Do</name>
+			<octave>7</octave>
+			<duration>8</duration>
+		</note>
+		<note>
+<name>Do</name>
+<duration>8</duration>
+<octave>7</octave>
+</note>
+		<note>
+<name>Do</name>
+<duration>8</duration>
+<octave>7</octave>
+</note>
+<note>
+			<name>Silence</name>
+			<octave>1</octave>
+			<duration>8</duration>
+		</note>
+		<note>
+			<name>Re</name>
+			<octave>7</octave>
+			<duration>16</duration>
+		</note>
+		<note>
+<name>Mi</name>
+<duration>16</duration>
+<octave>7</octave>
+</note>
+		<note>
+<name>Mi</name>
+<duration>16</duration>
+<octave>7</octave>
+</note>
+<note>
+<name>Mi</name>
+<duration>16</duration>
+<octave>7</octave>
+</note>
+<note>
+			<name>Silence</name>
+			<octave>1</octave>
+			<duration>8</duration>
+		</note>
+		<note>
+			<name>Mi</name>
+			<octave>7</octave>
+			<duration>8</duration>
+		</note>
+		<note>
+			<name>Re</name>
+			<octave>7</octave>
+			<duration>8</duration>
+		</note>
+		<note>
+			<name>Mi</name>
+			<octave>7</octave>
+			<duration>8</duration>
+		</note>
+		<note>
+			<name>Fa</name>
+			<octave>7</octave>
+			<duration>16</duration>
+		</note>
+		<note>
+			<name>Si</name>
+			<octave>6</octave>
+			<duration>16</duration>
+		</note>
+		<note>
+			<name>Re</name>
+			<octave>7</octave>
+			<duration>16</duration>
+		</note>
+		<note>
+			<name>Do</name>
+			<octave>7</octave>
+			<duration>40</duration>
+		</note>
+		<note>
+			<name>Silence</name>
+			<octave>1</octave>
+			<duration>16</duration>
+		</note>
+		<note>
+			<name>Sol</name>
+			<octave>6</octave>
+			<duration>16</duration>
+		</note>
+		<note>
+			<name>Do</name>
+			<octave>7</octave>
+			<duration>8</duration>
+		</note>
+		
+		<note>
+<name>Do</name>
+<duration>16</duration>
+<octave>7</octave>
+</note>
+		
+		<note>
+<name>Do</name>
+<duration>16</duration>
+<octave>7</octave>
+</note>
+<note>
+			<name>Re</name>
+			<octave>7</octave>
+			<duration>16</duration>
+		</note>
+		<note>
+<name>Mi</name>
+<duration>16</duration>
+<octave>7</octave>
+</note>
+		<note>
+<name>Mi</name>
+<duration>8</duration>
+<octave>7</octave>
+</note>
+<note>
+<name>Mi</name>
+<duration>8</duration>
+<octave>7</octave>
+</note>
+<note>
+			<name>Silence</name>
+			<octave>1</octave>
+			<duration>8</duration>
+		</note>
+		<note>
+			<name>Re</name>
+			<octave>7</octave>
+			<duration>10</duration>
+		</note>
+		<note>
+			<name>Mi</name>
+			<octave>7</octave>
+			<duration>8</duration>
+		</note>
+		<note>
+			<name>Fa</name>
+			<octave>7</octave>
+			<duration>16</duration>
+		</note>
+		<note>
+			<name>Si</name>
+			<octave>6</octave>
+			<duration>24</duration>
+		</note>
+		<note>
+			<name>Re</name>
+			<octave>7</octave>
+			<duration>26</duration>
+		</note>
+		<note>
+			<name>Do</name>
+			<octave>7</octave>
+			<duration>32</duration>
+		</note>
+		<note>
+			<name>Silence</name>
+			<octave>1</octave>
+			<duration>16</duration>
+		</note>
+		<note>
+<name>Sol</name>
+<duration>8</duration>
+<octave>7</octave>
+</note>
+		<note>
+<name>Sol</name>
+<duration>8</duration>
+<octave>7</octave>
+</note>
+<note>
+			<name>Mi</name>
+			<octave>7</octave>
+			<duration>8</duration>
+		</note>
+		<note>
+			<name>La</name>
+			<octave>7</octave>
+			<duration>32</duration>
+		</note>
+		<note>
+<name>Sol</name>
+<duration>8</duration>
+<octave>7</octave>
+</note>
+		<note>
+<name>Sol</name>
+<duration>8</duration>
+<octave>7</octave>
+</note>
+<note>
+<name>Fa</name>
+<duration>16</duration>
+<octave>7</octave>
+</note>
+		<note>
+<name>Fa</name>
+<duration>16</duration>
+<octave>7</octave>
+</note>
+<note>
+			<name>Silence</name>
+			<octave>1</octave>
+			<duration>16</duration>
+		</note>
+		<note>
+<name>Fa</name>
+<duration>8</duration>
+<octave>7</octave>
+</note>
+		<note>
+<name>Fa</name>
+<duration>8</duration>
+<octave>7</octave>
+</note>
+<note>
+			<name>Re</name>
+			<octave>7</octave>
+			<duration>8</duration>
+		</note>
+		<note>
+			<name>Sol</name>
+			<octave>7</octave>
+			<duration>32</duration>
+		</note>
+		<note>
+<name>Fa</name>
+<duration>8</duration>
+<octave>7</octave>
+</note>
+		<note>
+<name>Fa</name>
+<duration>8</duration>
+<octave>7</octave>
+</note>
+<note>
+<name>Mi</name>
+<duration>16</duration>
+<octave>7</octave>
+</note>
+		<note>
+<name>Mi</name>
+<duration>16</duration>
+<octave>7</octave>
+</note>
+<note>
+			<name>Silence</name>
+			<octave>1</octave>
+			<duration>16</duration>
+		</note>
+		<note>
+			<name>Sol</name>
+			<octave>6</octave>
+			<duration>8</duration>
+		</note>
+		<note>
+<name>Do</name>
+<duration>16</duration>
+<octave>7</octave>
+</note>
+		<note>
+<name>Do</name>
+<duration>8</duration>
+<octave>7</octave>
+</note>
+<note>
+<name>Do</name>
+<duration>8</duration>
+<octave>7</octave>
+</note>
+
+		<note>
+			<name>Re</name>
+			<octave>7</octave>
+			<duration>16</duration>
+		</note>
+		<note>
+			<name>Mi</name>
+			<octave>7</octave>
+			<duration>10</duration>
+		</note>
+		<note>
+<name>Mi</name>
+<duration>16</duration>
+<octave>7</octave>
+</note>
+		<note>
+<name>Mi</name>
+<duration>16</duration>
+<octave>7</octave>
+</note>
+<note>
+			<name>Silence</name>
+			<octave>1</octave>
+			<duration>8</duration>
+		</note>
+		<note>
+			<name>Re</name>
+			<octave>7</octave>
+			<duration>10</duration>
+		</note>
+		<note>
+			<name>Mi</name>
+			<octave>7</octave>
+			<duration>8</duration>
+		</note>
+		<note>
+			<name>Fa</name>
+			<octave>7</octave>
+			<duration>16</duration>
+		</note>
+		<note>
+			<name>Si</name>
+			<octave>6</octave>
+			<duration>24</duration>
+		</note>
+		<note>
+			<name>Re</name>
+			<octave>7</octave>
+			<duration>24</duration>
+		</note>
+		<note>
+			<name>Do</name>
+			<octave>7</octave>
+			<duration>48</duration>
+		</note>
+	</score>
+</music-score>
